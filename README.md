@@ -1,6 +1,6 @@
 # programming-basics
 
-Simple beginner programs in different languages. Each folder has a style program with comments that explain every line, so first-timers can compare how each language looks and runs.
+Simple beginner programs in different languages. Each folder has programs with comments that explain every line, so first-timers can compare how each language looks and runs.
 
 ## How to run
 
